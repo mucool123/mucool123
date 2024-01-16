@@ -2,6 +2,10 @@
 
 Welcome to my portfolio! I'm a Data Science enthusiast with a passion for exploring the depths of AI and machine learning. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 
+# Present Work:
+- Currently I am working as a Data Sceince Graduate Research Assistant in Professor Sunandan Chakraborthy's Lab at Indiana University.
+- I also work a Accounting Specialist at Indiana University Parking Services Department.
+
 ---
 
 ## Contact

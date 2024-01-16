@@ -51,11 +51,61 @@ Welcome to my portfolio! I'm a Data Science enthusiast with a passion for explor
 
 ## Leadership and Management Experience
 
-### Accounting Specialist at IU Parking Services
+### Accounting Specialist at IU Parking Services (February 2023 - Present)
 - Data Management Expertise: Ensured the integrity, confidentiality, and security of key data through meticulous data entry and management, resulting in zero breaches or data inaccuracies during my tenure.
 - Resource Tracking and Reporting: Conducted detailed inventory reports of permits, effectively tracking and optimizing resource utilization, leading to a 20% reduction in resource wastage annually.
 - Precision in Audits: Successfully executed biyearly audits of Automated Payment Systems (APS) machines, maintaining audit reports with 100% precision, thereby ensuring complete financial - accountability and compliance.
 - Team Leadership and Development: Managed and mentored a team of 2 part-time employees, enhancing their skills and productivity through targeted training and support, resulting in increases team efficiency and a 100% improvement in employee satisfaction.
+
+### Lead Resident Assistant at IUPUI Housing (May 2023 - August 2023)
+- Data Management and Security: Effectively managed the entry of student information into the housing portal, ensuring integrity, confidentiality, and security of critical data, leading to a 100% accuracy rate and zero security incidents during my tenure.
+
+- Resident and Guest Coordination: Successfully managed accommodations for over 1,000 residents and 600+ guests within a 2-month period, enhancing resident satisfaction and comfort through efficient space allocation and conflict resolution strategies.
+
+- Training and Mentorship: Developed and conducted comprehensive training for assistant staff on handling resident issues, implementing warning protocols, and promoting disaster awareness, resulting in a 30% decrease in resident complaints and a 25% improvement in emergency preparedness.
+
+- Community Engagement Initiatives: Spearheaded various community-building and engagement programs, leading to a 20% increase in resident participation in housing events and a significant improvement in overall resident morale and community cohesion.
+
+### Community Leader Intern at Unschool Pvt Ltd (May 2021 - Feb 2022)
+- Dynamic Community Leadership: As an Unschool Community Leader, I spearheaded a team of top-tier community influencers, driving innovative marketing strategies that revolutionized market penetration. My visionary approach resulted in an unprecedented expansion of the brand's reach and influence.
+
+- Strategic Hiring and Mentorship: Played a pivotal role in scouting and recruiting a cadre of high-potential interns, handpicked for their unique talents and potential. I provided them with intensive training in advanced people-to-people communication, consumer behavior analysis, and public relations, transforming them into highly effective marketing professionals.
+
+- Market Impact and Brand Elevation: My leadership directly contributed to a significant surge in market visibility and brand popularity, with a notable increase in consumer engagement and loyalty. My strategies were instrumental in setting new benchmarks for innovative marketing within the industry.
+
+### Event Manager, Esports Section in Technical Festival ‘Zephyr’, TCET (2020)
+- Strategic Planning and Execution: Orchestrated the entire esports section of the Technical Festival ‘Zephyr’, leading a team to plan and execute one of the most anticipated segments of the event. Successfully managed all aspects of the event, from concept to completion.
+
+- Team Leadership and Coordination: Led and motivated a team of volunteers and coordinators, fostering a collaborative and enthusiastic environment. Ensured efficient task delegation and smooth communication, resulting in a highly successful and well-coordinated event.
+
+- Innovative Event Management: Implemented cutting-edge gaming technologies and interactive platforms, attracting a record number of participants and spectators, significantly enhancing the overall experience of the festival.
+
+- Budget and Resource Management: Managed the budget effectively, optimizing resources and sponsorships to deliver a high-quality event while maintaining cost-efficiency.
+
+- Stakeholder Engagement: Coordinated with various stakeholders, including sponsors, gaming communities, and technical experts, to ensure a diverse and engaging esports event.
+
+- Impact and Legacy: The success of the esports section under my leadership contributed to a substantial increase in the festival's popularity and set a new benchmark for future events at TCET.
+
+### IIC Student’s Council Internship Coordinator, TCET (2019-2020)
+- Internship Program Leadership: Spearheaded the Internship Coordination for the IIC Student's Council, significantly enhancing the internship experience for students. Successfully established and maintained relationships with industry partners, leading to a 40% increase in internship opportunities.
+
+- Student Development and Mentorship: Designed and implemented structured internship programs, aligning them with students' academic and career goals. Provided ongoing mentorship and guidance, resulting in a noticeable improvement in student performance and professional development.
+
+- Event and Workshop Coordination: Organized career development workshops and networking events, connecting students with industry professionals and alumni, thereby broadening their professional horizons and opportunities.
+
+### Research & Development Coordinator, TCET (2019-2020)
+- Innovative R&D Initiatives: Led the Research and Development initiatives, fostering a culture of innovation and scientific inquiry. Managed multiple research projects, contributing to advancements in [specific fields or technologies].
+
+- Collaborative Research Partnerships: Established and nurtured collaborative relationships with industry and academic partners, enhancing the quality and impact of research projects.
+
+- Student Research Engagement: Encouraged and facilitated student participation in research activities, providing guidance and resources to support their projects and publications.
+
+### Lead Council for Public Welfare, National Service Scheme, TCET (2018-2020)
+- Community Service and Engagement: Actively volunteered in various public welfare initiatives, demonstrating a strong commitment to community service and social responsibility. Played a key role in organizing and executing community development projects.
+
+- Leadership in Social Causes: Led teams in diverse community service activities, including environmental conservation, health awareness campaigns, and educational programs, making a tangible difference in the community.
+
+- Event Management and Coordination: Efficiently managed logistics and coordinated events, ensuring their success and maximizing community participation and impact.
 
 ---
 

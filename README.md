@@ -1,6 +1,12 @@
 # Mukul Gharpure
 
-Welcome to my portfolio! I'm a Data Science enthusiast with a passion for exploring the depths of AI and machine learning. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
+Welcome to my professional portfolio. I am Mukul Gharpure, a driven and accomplished data science professional with a robust academic background from Indiana University and a diverse range of hands-on experiences in data science, AI, and machine learning. My journey in the field has been marked by a series of leadership roles, research initiatives, and impactful project engagements.
+
+With over 6 years of experience in Internships, Research and Management, I have developed a deep understanding of data-driven methodologies and a passion for pioneering innovative solutions in various domains. My expertise spans a wide array of areas, including deep learning, neural networks, natural language processing, and machine learning algorithm development.
+
+As a Data Science Graduate Research Assistant, I have led groundbreaking research projects, significantly advancing the capabilities of neural networks and AI algorithms. My tenure as an Accounting Specialist at Indiana University Parking Services Department has further honed my skills in data management, precision auditing, and team leadership. I have also demonstrated my leadership capabilities in various roles, such as the Lead Resident Assistant at IUPUI Housing, Community Leader Intern at Unschool Pvt Ltd, and Event Manager for the Esports Section in the Technical Festival 'Zephyr'.
+
+This portfolio showcases a selection of my projects, which are a testament to my technical proficiency and my ability to lead and execute complex data science initiatives. I invite you to explore my work, and I am always open to discussing new ideas, collaborations, or any queries you may have.
 
 # Present Work
 

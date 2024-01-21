@@ -1,6 +1,8 @@
 # Mukul Gharpure
 
-Welcome to my professional portfolio. I am Mukul Gharpure, a driven and accomplished data science professional with a robust academic background from Indiana University and a diverse range of hands-on experiences in data science, AI, and machine learning. My journey in the field has been marked by a series of leadership roles, research initiatives, and impactful project engagements.
+## For Personal Website, Please Visit: [https://gharpuremukul786.wixsite.com/portfolio](https://gharpuremukul786.wixsite.com/portfolio)
+
+Welcome to my Github. I am Mukul Gharpure, a driven and accomplished data science professional with a robust academic background from Indiana University and a diverse range of hands-on experiences in data science, AI, and machine learning. My journey in the field has been marked by a series of leadership roles, research initiatives, and impactful project engagements.
 
 With over 6 years of experience in Internships, Research and Management, I have developed a deep understanding of data-driven methodologies and a passion for pioneering innovative solutions in various domains. My expertise spans a wide array of areas, including deep learning, neural networks, natural language processing, and machine learning algorithm development.
 

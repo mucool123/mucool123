@@ -36,20 +36,39 @@ I am Mukul Gharpure, a forward-thinking Data Scientist and AI Engineer, currentl
 
 ## Professional Experience
 
-### Data Science Research Assistant
-**Indiana University – Deep Learning and Neural Networks Lab**  
+# Professional Experience
+
+### Data Analyst II
+**Indiana University Data Lab**  
 *Aug 2023 - Present, Indianapolis, IN*
 
-- Led impactful research on modifying neural network information without retraining.
-- Updated Roberta model parameters, reducing loss to 0.02.
-- Achieved 95% computational cost reduction with a novel matrix representation method.
+- Researched parameters in LLMs like BERT, RoBERTa, and GPT.
+- Achieved 95% computational cost reduction by fine-tuning models.
+- Optimized loss to 0.001, saving 24+ hours per obsolete fact.
+
+### Data Analyst I
+**MJLab, Indiana University**  
+*Aug 2022 - Jul 2023, Indianapolis, IN*
+
+- Led research on cultural and social biases in LLMs.
+- Invented a unique corpus for accuracy improvements across underrepresented countries.
+- Elevated accuracy across multiple downstream tasks.
 
 ### Data Science Intern
-**TechCiti Software Consulting Private Limited**  
-*Sep 2021 - Jan 2022, Bangalore, India*
+**TechCiti Technologies**  
+*Sep 2021 - Jan 2022, Mumbai, India*
 
-- Developed a machine learning algorithm for health anomalies with 0.99 precision.
-- Managed a multidisciplinary team for healthcare methodology design.
+- Engineered ML algorithms for identifying health anomalies.
+- Revamped treatment protocols, leading to a 10% improvement in patient outcomes.
+
+### Data Analyst Intern
+**KPMG**  
+*May 2020 - Jul 2020, Mumbai, India*
+
+- Analyzed customer records for targeted marketing.
+- Enhanced client reporting mechanisms, leading to a 15% boost in project output efficiency.
+
+
 
 ---
 

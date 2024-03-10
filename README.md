@@ -2,21 +2,14 @@
 
 ## For Personal Website, Please Visit: [https://gharpuremukul786.wixsite.com/portfolio](https://gharpuremukul786.wixsite.com/portfolio)
 
-![image](https://github.com/mucool123/mucool123/assets/59078822/8695c953-3b43-4717-b9b4-fbb48aef7eba)
 
-
-Welcome to my Github. I am Mukul Gharpure, a driven and accomplished data science professional with a robust academic background from Indiana University and a diverse range of hands-on experiences in data science, AI, and machine learning. My journey in the field has been marked by a series of leadership roles, research initiatives, and impactful project engagements.
-
-With over 6 years of experience in Internships, Research and Management, I have developed a deep understanding of data-driven methodologies and a passion for pioneering innovative solutions in various domains. My expertise spans a wide array of areas, including deep learning, neural networks, natural language processing, and machine learning algorithm development.
-
-As a Data Science Graduate Research Assistant, I have led groundbreaking research projects, significantly advancing the capabilities of neural networks and AI algorithms. My tenure as an Accounting Specialist at Indiana University Parking Services Department has further honed my skills in data management, precision auditing, and team leadership. I have also demonstrated my leadership capabilities in various roles, such as the Lead Resident Assistant at IUPUI Housing, Community Leader Intern at Unschool Pvt Ltd, and Event Manager for the Esports Section in the Technical Festival 'Zephyr'.
-
-This portfolio showcases a selection of my projects, which are a testament to my technical proficiency and my ability to lead and execute complex data science initiatives. I invite you to explore my work, and I am always open to discussing new ideas, collaborations, or any queries you may have.
+I am Mukul Gharpure, a forward-thinking Data Scientist and AI Engineer, currently enhancing my expertise in Applied Data Science at Indiana University-Indianapolis. With a solid foundation in Computer Engineering from Mumbai University, I excel in LLM, Generative AI, Deep Learning, and NLP. My work, particularly in transforming model interpretability and healthcare, stands out as a testament to my ability to identify complex data patterns and devise innovative AI solutions. Having gained valuable experience at prestigious firms like KPMG, I have honed my skills in not just technical aspects but also in navigating and contributing to collaborative environments. I am deeply passionate about pushing the boundaries of AI and Machine Learning innovation, leveraging my comprehensive skill set to drive progress and solve the complex challenges of today and tomorrow.
 
 # Present Work
-
 - Currently I am working as a Data Sceince Graduate Research Assistant in Professor Sunandan Chakraborthy's Lab at Indiana University.
 - I also work a Accounting Specialist at Indiana University Parking Services Department.
+
+![image](https://github.com/mucool123/mucool123/assets/59078822/8695c953-3b43-4717-b9b4-fbb48aef7eba)
 
 ---
 

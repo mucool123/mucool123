@@ -6,7 +6,7 @@
 I am Mukul Gharpure, a forward-thinking Data Scientist and AI Engineer, currently enhancing my expertise in Applied Data Science at Indiana University-Indianapolis. With a solid foundation in Computer Engineering from Mumbai University, I excel in LLM, Generative AI, Deep Learning, and NLP. My work, particularly in transforming model interpretability and healthcare, stands out as a testament to my ability to identify complex data patterns and devise innovative AI solutions. Having gained valuable experience at prestigious firms like KPMG, I have honed my skills in not just technical aspects but also in navigating and contributing to collaborative environments. I am deeply passionate about pushing the boundaries of AI and Machine Learning innovation, leveraging my comprehensive skill set to drive progress and solve the complex challenges of today and tomorrow.
 
 # Present Work
-- Currently I am working as a Data Sceince Graduate Research Assistant in Professor Sunandan Chakraborthy's Lab at Indiana University.
+- Currently I am working as a Data Analyst at Data Lab in Indiana University under Professor Sunandan Chakraborthy. My work involves working on LLMs to mitigate biases, hallucinations and build optimized models.
 - I also work a Accounting Specialist at Indiana University Parking Services Department.
 
 ![image](https://github.com/mucool123/mucool123/assets/59078822/8695c953-3b43-4717-b9b4-fbb48aef7eba)

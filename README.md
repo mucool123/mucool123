@@ -9,6 +9,9 @@ I am Mukul Gharpure, a forward-thinking Data Scientist and AI Engineer, currentl
 - Currently I am working as a Data Science Specialist II at Data Lab in Indiana University under Professor Sunandan Chakraborthy. My work involves working on LLMs to mitigate biases, hallucinations and build optimized models.
 - I also work a Accounting Specialist at Indiana University Parking Services Department.
 
+- 💻 Tech Stack:
+ Python R LaTeX Keras NumPy Pandas Plotly PyTorch scikit-learn SciPy TensorFlow
+
 ![image](https://github.com/mucool123/mucool123/assets/59078822/8695c953-3b43-4717-b9b4-fbb48aef7eba)
 
 ---
